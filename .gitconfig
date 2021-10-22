@@ -1,0 +1,27 @@
+[user]
+    name = John Zanussi
+    email = johnzanussi@gmail.com
+    username = johnzanussi
+[core]
+    editor = subl
+    excludesfile = ~/.gitignore
+    autocrlf = input
+[color]
+    branch = auto
+    diff = auto
+    interactive = auto
+    status = auto
+[init]
+    defaultBranch = main
+[web]
+    browser = google-chrome
+[credential]
+    helper = osxkeychain
+[push]
+    default = simple
+[merge]
+    tool = kdiff3
+[difftool]
+    prompt = false
+[pull]
+    rebase = true

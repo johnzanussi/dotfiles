@@ -1,0 +1,12 @@
+*.DS_Store
+Thumbs.db
+.bundle
+
+/node_modules
+npm-debug.log*
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
